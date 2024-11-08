@@ -1,0 +1,35 @@
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.exe
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.deps.json
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.runtimeconfig.json
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.dll
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.pdb
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.AssemblyReference.cache
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfoInputs.cache
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfo.cs
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.CoreCompileInputs.cache
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestShar.4277DC1C.Up2Date
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.dll
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\refint\RestSharpServices.dll
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.pdb
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.genruntimeconfig.cache
+C:\Users\Yasen\Desktop\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\ref\RestSharpServices.dll
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.exe
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.deps.json
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.runtimeconfig.json
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.dll
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.pdb
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharp.dll
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.AssemblyReference.cache
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfoInputs.cache
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfo.cs
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestShar.4277DC1C.Up2Date
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.dll
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\refint\RestSharpServices.dll
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.pdb
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.genruntimeconfig.cache
+D:\Programing\QA\Back-End Test Automation\C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\ref\RestSharpServices.dll
