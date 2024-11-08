@@ -88,6 +88,7 @@ namespace DemoAPITesting
             // HTTP post request with authentication
             var clientWithAuthentication = new RestClient(new RestClientOptions("https://api.github.com")
             {
+                // You should paste the API token
                 Authenticator = new HttpBasicAuthenticator("YasenKirilovORH", "Here paste API Token")
             });
 
