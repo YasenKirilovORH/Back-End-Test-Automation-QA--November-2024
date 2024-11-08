@@ -25,6 +25,7 @@ namespace UnitTestsDemo
             var options = new RestClientOptions("https://api.github.com")
             {
                 MaxTimeout = 3000,
+                // You should paste the API token
                 Authenticator = new HttpBasicAuthenticator("YasenKirilovORH", "Here paste API Token")
             };
 
